@@ -9,7 +9,7 @@
            review="review.cyanogenmod.com" />
 
   <remote  name="bdimcheff"
-           fetch="git@github.com:bdimcheff/"
+           fetch="."
            review=""/>
 
   <default revision="refs/heads/ics"
