@@ -267,5 +267,5 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="android" remote="bdimcheff" />
+  <project path="android" name="android" remote="bdimcheff" branch="separate-encryption-password" />
 </manifest>
