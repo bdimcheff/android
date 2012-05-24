@@ -1,6 +1,23 @@
 CyanogenMod
 ===========
 
+Brandon's Encryption Changes
+----------------------------
+
+The 'separate-encryption-password' branch contains changes necessary to
+have separate passwords for the bootup encryption and the screen lock.
+
+Go to Settings -> Security and uncheck "Synchronize Encryption Password"
+(after you encrypt your device).  You should now be able to choose any
+of the screen lock styles and they will not effect the boot password.
+If you want to change your boot password, you'll have to reenable
+password sync for now. Baby steps...
+
+- Brandon
+
+The normal cyanogen info appears below:
+
+
 Submitting Patches
 ------------------
 Patches are always welcome!  Please submit your patches via CyanogenMod Gerrit!
